@@ -1,0 +1,9 @@
+comandos do git
+
+git init: gerencia o diretorio
+
+git status: mostra o status (onde esta)
+
+git add: coloca na área de stage
+
+git commit -m "mensagem do que alterei" : comita o que se faz 
