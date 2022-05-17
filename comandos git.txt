@@ -7,3 +7,6 @@ git status: mostra o status (onde esta)
 git add: coloca na área de stage
 
 git commit -m "mensagem do que alterei" : comita o que se faz 
+
+para clonar projeto
+git clone https://github.com/LayNascimento/Linux.git
