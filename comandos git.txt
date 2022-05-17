@@ -10,3 +10,5 @@ git commit -m "mensagem do que alterei" : comita o que se faz
 
 para clonar projeto
 git clone https://github.com/LayNascimento/Linux.git
+
+Estados:https://gist.github.com/leocomelli/2545add34e4fec21ec16
